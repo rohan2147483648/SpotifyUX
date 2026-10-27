@@ -16,7 +16,6 @@ A comprehensive qualitative synthesis and quantitative prioritization project an
 - [5. Winning Problem Rationale & PRD Problem Statement](#5-winning-problem-rationale--prd-problem-statement)
 - [6. Proposed Interaction Solution & UX Flow](#6-proposed-interaction-solution--ux-flow)
 - [7. Metrics & Guardrails](#7-metrics--guardrails)
-- [8. Portfolio & Resume Impact (STAR Format)](#8-portfolio--resume-impact-star-format)
 
 ---
 
@@ -130,11 +129,6 @@ stateDiagram-v2
 
 ---
 
-## 8. Portfolio & Resume Impact (STAR Format)
-
-* **Situation & Task:** Addressed widespread user dissatisfaction across Spotify’s mobile player experience by leading a cross-channel qualitative research initiative across Reddit, app stores, and community forums.
-* **Action:** Synthesized a 100-complaint qualitative dataset into 5 core UX themes and built a quantitative RICE prioritization model evaluating reach, severity, and feasibility across competing friction points.
-* **Result:** Successfully prioritized playback agency (**Theme A, RICE: 135.0**) as the P0 initiative, delivering an actionable PRD brief and interaction refactor projected to reduce accidental skip rates and lift listening session completion across **70M+ mobile MAUs** at an engineering cost of just **1.5 person-months**.
 
 ---
 
